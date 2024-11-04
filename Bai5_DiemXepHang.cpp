@@ -16,16 +16,16 @@ int main()
     else if (diem <= 4) {
         cout << "Yeu";
     }
-    else if (diem <= 5) {
+    else if (diem = 5) {
         cout << "Trung Binh";
     }
     else if (diem <= 8) {
         cout << "Kha";
     }
-    else if (diem <= 9) {
+    else if (diem = 9) {
         cout << "Gioi";
     }
-    else if (diem <= 10) {
+    else if (diem = 10) {
         cout << "Xuat Sac";
     }
     return 0;
